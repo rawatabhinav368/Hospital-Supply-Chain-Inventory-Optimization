@@ -38,10 +38,15 @@ For more information, visit the Kaggle dataset page [here](https://www.kaggle.co
 ### Tools
 
 1. **Python**: 
-   ## Libraries Used: - Pandas , Numpy, Matplotlib, Seaborn, Plotly, Warnings.
+    Libraries Used: - Pandas , Numpy, Matplotlib, Seaborn, Plotly, Warnings.
   
 2. **Tableau**: 
    - Tableau was used for data visualization. It helped in creating interactive dashboards to analyze hospital supply chain data, monitor inventory levels, and identify trends in real-time.
+   - ## Hospital Supply Chain Inventory Dashboard
+
+Click the image below to view the dashboard:
+
+[![Hospital Supply Chain Inventory Dashboard](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/Hospital%20Supply%20Chain%20Invntory%20Dashboard.png)](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/Hospital%20Supply%20Chain%20Invntory%20Dashboard.png)
 
 3. **PowerPoint**:
    - PowerPoint was used for creating presentations and communicating the insights derived from the analysis. It helped in effectively presenting findings and recommendations to stakeholders.

@@ -50,8 +50,13 @@ Click the image below to view the dashboard:
 
 3. **PowerPoint**:
    - PowerPoint was used for creating presentations and communicating the insights derived from the analysis. It helped in effectively presenting findings and recommendations to stakeholders.
+   - ## PowerPoint Presentation
 
-  ### Data CLeaning/Preparation
+You can download and view the PowerPoint presentation for this analysis using the link below:
+
+[Download Hospital Supply Chain Inventory Data Analysis Presentation](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/hospial%20supply%20chain%20inventory%20data%20analysis.pptx)
+
+  ### Data Cleaning/Preparation
 
   In the initital data preparation pharase, we preformed the following tasks:
   

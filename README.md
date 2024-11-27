@@ -20,7 +20,7 @@ This project analyzes hospital supply chain inventory management using data anal
 
 **Dataset Source:**
 
-The primary dataset used for this analysis is the **"inventory_data.csv"** file, which was downloaded from Kaggle's [Hospital Supply Chain Dataset](https://www.kaggle.com/datasets/vanpatangan/hospital-supply-chain). This dataset contains detailed information about hospital inventory, including the following features:
+The primary dataset used for this analysis is the **"inventory_data.csv"** [Download inventory_data.csv](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/inventory_data.csv) file, which was downloaded from Kaggle's [Hospital Supply Chain Dataset](https://www.kaggle.com/datasets/vanpatangan/hospital-supply-chain).  This dataset contains detailed information about hospital inventory, including the following features:
 
 - **Item_ID**: Unique identifier for each inventory item.
 - **Item_Type**: The category or type of item (e.g., Medication, Surgical, Consumables, etc.).

@@ -1,7 +1,15 @@
 # Hospital Supply Chain Inventory Optimization
 
-## Table of Content 
-- [Project Overview](#project-overview)
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools](#tools)
+4. [Data Cleaning/Preparation](#data-cleaningpreparation)
+5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+6. [Data Analysis](#data-analysis)
+7. [Results/Findings](#resultsfindings)
+8. [Recommendations](#recommendations)
 
 
 ### Project Overview
@@ -107,7 +115,7 @@ The analysis results are summarized as follows:
 * *EOQ* and *safety stock* calculations highlight opportunities to optimize costs and reduce stockout risks.
 * Strategic inventory management is essential to balance stock availability, cost efficiency, and vendor reliability.
 
-  ## **Recommendation**
+  ## Recommendations
 * *Improve Consumables Management*: Regularly adjust inventory levels based on demand patterns and maintain safety stock to prevent stockouts.
 * *Diversify Vendors*: Reduce reliance on Vendor V001 by reallocating critical supplies to other vendors and establishing backup suppliers.
 * *Optimize Inventory Costs*: Use EOQ to balance holding and ordering costs and minimize overstocking.

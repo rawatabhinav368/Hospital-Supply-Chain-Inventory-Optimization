@@ -46,7 +46,7 @@ For more information, visit the Kaggle dataset page [here](https://www.kaggle.co
 
 Click the image below to view the dashboard:
 
-[![Hospital Supply Chain Inventory Dashboard]()](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/hospial%20supply%20chain%20inventory%20data%20analysis%20dashboard.png)
+[![Hospital Supply Chain Inventory Dashboard](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/hospial%20supply%20chain%20inventory%20data%20analysis%20dashboard.png)](https://github.com/rawatabhinav368/Hospital-Supply-Chain-Inventory-Optimization/blob/main/hospial%20supply%20chain%20inventory%20data%20analysis%20dashboard.png)
 
 3. **PowerPoint**:
    - PowerPoint was used for creating presentations and communicating the insights derived from the analysis. It helped in effectively presenting findings and recommendations to stakeholders.
